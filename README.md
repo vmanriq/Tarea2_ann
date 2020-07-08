@@ -1,2 +1,9 @@
-# Tarea2_ann
-Tarea 2 del ramo "Introducción a las Redes Neuronales " 
+# Tarea2
+
+## Integrantes: 
++ Vicente Manriquez
++ Manuel Matus
++ Matias Guzman 
+
+## Link de Youtube
+
